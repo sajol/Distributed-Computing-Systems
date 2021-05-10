@@ -1,0 +1,14 @@
+Book Name
+----------
+
+25. Kafka: The Definitive Guide. Chapter 7: Building Data Pipelines
+
+Book Chapter
+------------
+Chapter 7: Building Data Pipelines
+
+
+Concept Map Link
+------------------
+
+https://lucid.app/lucidchart/invitations/accept/inv_838fd3a3-9393-4ef5-bb65-8037c41f29bc?viewport_loc=-1863%2C-22%2C3328%2C1504%2C0_0
